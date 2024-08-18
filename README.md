@@ -64,8 +64,8 @@ During my online internship with Codsoft, I completed several tasks, including:
 
 Feel free to connect with me if you have any questions or opportunities related to Java, Spring Boot, or other software development topics:
 
-- **Email**: [your.email@example.com](mhmdnaser1572@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/mohamad-nasser-0614342a6)
-- **GitHub**: [github.com/MohamadNasser1572](https://github.com/MohamadNasser1572)
+- **Email**: [Email](mhmdnaser1572@gmail.com)
+- **LinkedIn**: [LinkedIn](www.linkedin.com/in/mohamad-nasser-0614342a6)
+- **GitHub**: [Github](https://github.com/MohamadNasser1572)
 
 Thank you for visiting my GitHub profile!
