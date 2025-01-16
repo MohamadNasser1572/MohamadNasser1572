@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Artificial Intelligence and Machine Learning**
+- 💬 Ask me about **Data Science and Machine Learning**
 
 - 📫 How to reach me **mhmdnaser1572@gmail.com**
 
