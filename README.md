@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Nasser</h1>
 <h3 align="center">A passionate Computer Engineering Student from Lebanon</h3>
 
-- 🔭 I’m currently working on [an SMS Provider Integration](https://github.com/MohamadNasser1572/NasserProvider)
-
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Data Science and Machine Learning**
