@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Nasser</h1>
 <h3 align="center">A passionate Computer Engineering Student from Lebanon</h3>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently diving deeper in **Spring Boot**
 
 - 💬 Ask me about **Data Science and Machine Learning**
 
