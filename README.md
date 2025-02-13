@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am currently working on a URL Feeder Service in Java Spring Boot,<br>creating a ML model about Crops and Soils analyzing.<br>I am looking to collaborate various projects that are about AI, ML, DS, and software development.<br>I am currently learning more and more about DS and ML to be familiar with AI!<br>Ask me about anything related to software development using AI, ML, DS, and programming.<br>Fun fact, I am still a second degree Computer Engineering student, early right?
+Computer Engineering undergraduate with a strong foundation in Java, Spring Boot, and microservices, specializing in backend development and scalable system design. I have experience building and deploying RESTful APIs, managing databases, and optimizing performance in distributed applications.
+
+Beyond software development, I have a deep passion for Data Science, Machine Learning, and AI. I’ve worked on various projects involving predictive modeling, sentiment analysis, and AI-driven automation. My expertise in Python, pandas, NumPy, and machine learning frameworks like TensorFlow and scikit-learn enables me to extract insights from data and develop intelligent solutions.
+
+In addition to my technical skills, I am an experienced private tutor and data entry/records manager. Teaching allows me to share my knowledge, mentor others, and continuously refine my understanding of complex topics. My role in data management has strengthened my attention to detail and my ability to ensure accuracy and efficiency in large-scale data processing.
+
+I am always exploring new technologies to stay ahead in the field, constantly seeking opportunities to learn, collaborate, and innovate. Whether it's backend systems, AI applications, or workflow optimization, I am driven by the challenge of solving real-world problems.
+
+Fun fact: I started working on Data Science and Machine Learning before turning 19, and I’ve been hooked ever since!
 
 
 ## 🌐 Socials:
