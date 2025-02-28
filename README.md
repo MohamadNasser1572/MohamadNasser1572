@@ -7,7 +7,7 @@ In addition to my technical skills, I am an experienced private tutor and data e
 
 I am always exploring new technologies to stay ahead in the field, constantly seeking opportunities to learn, collaborate, and innovate. Whether it's backend systems, AI applications, or workflow optimization, I am driven by the challenge of solving real-world problems.
 
-Fun fact: I started working on Data Science and Machine Learning before turning 19, and I’ve been hooked ever since!
+Fun fact: I started working on Data Science and Machine Learning before turning 18, and I’ve been hooked ever since!
 
 
 ## 🌐 Socials:
