@@ -5,7 +5,7 @@ Beyond software development, I have a deep passion for Data Science, Machine Lea
 
 In addition to my technical skills, I am an experienced private tutor and institute instructor, teaching robotics and Scratch programming to children while also mentoring students in programming and problem-solving. Teaching allows me to simplify complex concepts, inspire early interest in technology, and continuously refine my own understanding. My experience as a data entry and records manager has further strengthened my attention to detail and my ability to ensure accuracy and efficiency in large-scale data processing.
 
-I am also the admin of SyncByte.dev, a growing programming community and tech hub where developers connect, share knowledge, and collaborate on technical topics, supporting and engaging a community of 300+ members.
+I am also an admin of SyncByte.dev, a growing programming community and tech hub where developers connect, share knowledge, and collaborate on technical topics, supporting and engaging a community of 300+ members.
 
 I am always exploring new technologies to stay ahead in the field, constantly seeking opportunities to learn, collaborate, and innovate. Whether it's backend systems, AI applications, community building, or workflow optimization, I am driven by the challenge of solving real-world problems.
 
