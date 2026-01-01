@@ -5,7 +5,10 @@ Beyond software development, I have a deep passion for Data Science, Machine Lea
 
 In addition to my technical skills, I am an experienced private tutor and data entry/records manager. Teaching allows me to share my knowledge, mentor others, and continuously refine my understanding of complex topics. My role in data management has strengthened my attention to detail and my ability to ensure accuracy and efficiency in large-scale data processing.
 
-I am always exploring new technologies to stay ahead in the field, constantly seeking opportunities to learn, collaborate, and innovate. Whether it's backend systems, AI applications, or workflow optimization, I am driven by the challenge of solving real-world problems.
+I am also the admin of SyncByte.dev, a growing programming community and tech hub where developers connect, share knowledge, and stay updated with the latest in technology (programming content, discussions, and collaborative learning) — helping foster engagement among 300+ members and contribute to a vibrant developer ecosystem. 
+Syncbyte
+
+I am always exploring new technologies to stay ahead in the field, constantly seeking opportunities to learn, collaborate, and innovate. Whether it's backend systems, AI applications, community building, or workflow optimization, I am driven by the challenge of solving real-world problems.
 
 Fun fact: I started working on Data Science and Machine Learning before turning 18, and I’ve been hooked ever since!
 
