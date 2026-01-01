@@ -3,14 +3,13 @@ Computer Engineering undergraduate with a strong foundation in Java, Spring Boot
 
 Beyond software development, I have a deep passion for Data Science, Machine Learning, and AI. I’ve worked on various projects involving predictive modeling, sentiment analysis, and AI-driven automation. My expertise in Python, pandas, NumPy, and machine learning frameworks like TensorFlow and scikit-learn enables me to extract insights from data and develop intelligent solutions.
 
-In addition to my technical skills, I am an experienced private tutor and data entry/records manager. Teaching allows me to share my knowledge, mentor others, and continuously refine my understanding of complex topics. My role in data management has strengthened my attention to detail and my ability to ensure accuracy and efficiency in large-scale data processing.
+In addition to my technical skills, I am an experienced private tutor and institute instructor, teaching robotics and Scratch programming to children while also mentoring students in programming and problem-solving. Teaching allows me to simplify complex concepts, inspire early interest in technology, and continuously refine my own understanding. My experience as a data entry and records manager has further strengthened my attention to detail and my ability to ensure accuracy and efficiency in large-scale data processing.
 
-I am also the admin of SyncByte.dev, a growing programming community and tech hub where developers connect, share knowledge, and stay updated with the latest in technology (programming content, discussions, and collaborative learning) — helping foster engagement among 300+ members and contribute to a vibrant developer ecosystem. 
-Syncbyte
+I am also the admin of SyncByte.dev, a growing programming community and tech hub where developers connect, share knowledge, and collaborate on technical topics, supporting and engaging a community of 300+ members.
 
 I am always exploring new technologies to stay ahead in the field, constantly seeking opportunities to learn, collaborate, and innovate. Whether it's backend systems, AI applications, community building, or workflow optimization, I am driven by the challenge of solving real-world problems.
 
-Fun fact: I started working on Data Science and Machine Learning before turning 18, and I’ve been hooked ever since!
+Fun fact: I’m almost 21 and still use Scratch… turns out good logic has no age limit.
 
 
 ## 🌐 Socials:
